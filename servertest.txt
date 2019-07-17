@@ -1,2 +1,0 @@
-This file is in gitserver
-Needs to be downloaded to gitremote
